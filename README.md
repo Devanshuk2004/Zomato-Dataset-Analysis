@@ -82,13 +82,3 @@ The data processing for this project focused on the following categories:
 - Applied **Linear Regression** to model the data.
 - Generated OLS results and model summary to evaluate model performance.
 
-## Repository Structure
-
-```plaintext
-├── data/
-│   ├── raw/                 # Raw data files
-│   ├── processed/           # Processed data files
-├── notebooks/               # Jupyter notebooks for analysis
-├── src/                     # Source code for data processing and modeling
-├── reports/                 # Generated analysis and model performance reports
-└── README.md                # Project overview and instructions
